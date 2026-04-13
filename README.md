@@ -6,7 +6,7 @@
 ### Analog IC Design | Digital IC Design | Verification | RF Mixed-Signal Systems
 
 
-<img width="1536" height="1024" alt="Semiconductor design in progress" src="https://github.com/user-attachments/assets/1eb7564f-e291-4567-ab75-0010638a0a57" />
+<img width="60%" height="1024" alt="Semiconductor design in progress" src="https://github.com/user-attachments/assets/1eb7564f-e291-4567-ab75-0010638a0a57" />
 </div>
 
 
