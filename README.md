@@ -5,11 +5,10 @@
 ### Electronics Engineering Undergraduate | Nanoelectronics & VLSI Enthusiast
 ### Analog IC Design | Digital IC Design | Verification | RF Mixed-Signal Systems
 
-<img src="YOUR_CUSTOM_CADENCE_MOSFET_DESIGN_GIF_LINK" width="65%" />
 
+<img width="1536" height="1024" alt="Semiconductor design in progress" src="https://github.com/user-attachments/assets/1eb7564f-e291-4567-ab75-0010638a0a57" />
 </div>
 
----
 
 ## 👨‍💻 About Me
 
